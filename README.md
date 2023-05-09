@@ -1,2 +1,1 @@
-# anaume_vision_api_experiment
-## vision apiのpythonでの使い方をまとめました。
+pythonでのvision apiの光学文字認識のコードです。
